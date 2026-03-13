@@ -1,0 +1,29 @@
+﻿# --- User-specific files ---
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Build results ---
+[Dd]ebug/
+[Ww]in32/
+[Xx]64/
+[Aa]ny[Pp]latform/
+[Rr]elease/
+bin/
+obj/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Visual Studio folders ---
+.vs/
+.idea/
+.vscode/
+*.swp
+*.lut
+
+# --- ASP.NET Core specific ---
+ASPNETCore.GeneratedMSIL.xml
